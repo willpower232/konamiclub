@@ -14,4 +14,5 @@ This version is based on an old blog post which has since disappeared <http://un
 
 Obviously the point to this is to do something fun.
 
-* Contents go here
+* greyt.js - replace the entire body with a grey colour
+* kittens.js - replace all images, both inline and background, with placekitten images
