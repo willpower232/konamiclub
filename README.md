@@ -16,3 +16,4 @@ Obviously the point to this is to do something fun.
 
 * greyt.js - replace the entire body with a grey colour
 * kittens.js - replace all images, both inline and background, with placekitten images
+* honk.js - have a goose honk sound activate everytime a link is clicked
